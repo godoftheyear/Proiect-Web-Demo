@@ -1,4 +1,6 @@
 # Realistic Cars Mod - GTA V
+![This is an alt text.](https://www.motorverso.com/wp-content/uploads/2020/11/GTA-5-Realistic-Car-Mod-671x370.jpg "Mod preview")
+
 ## Ce face proiectul?
 Acest proiect prezinta un mod pentru jocul Grand Theft Auto V, care adauga masini noi si imbunatateste experienta de joc. Mod-ul introduce vehicule cu modele detaliate si un aspect realist.
 
